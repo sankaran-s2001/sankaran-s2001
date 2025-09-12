@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sankaran S</h1>
-<h3 align="center">Junior Data Scientist | Data Analyst | ML Enthusiast</h3>
+<h3 align="center">Junior Data Scientist | Data Analyst | AI & ML Enthusiast</h3>
 <p align="center">
-  <em>🎯 Fresh Graduate • 🚀 20+ Data Science Projects • 📊 Business Analytics • 💼 Seeking Entry-Level Opportunities</em>
+  <em>🎯 1.5+ Years Experience • 🚀 20+ DS Projects • 📊 Business Analytics</em>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sankaran-s21/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:sankaran.sangumuthu@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/sankaran-s2001"><img src="https://img.shields.io/badge/-Portfolio-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://sankaran-s2001.github.io/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=sankaran-s2001&color=blue&style=flat-square" />
 </p>
 
@@ -15,14 +15,14 @@
 
 ## 🎯 **About Me**
 
-**Recent Graduate** passionate about data science and machine learning with hands-on experience in building **end-to-end ML projects**, **data analytics dashboards**, and **AI applications**. Strong foundation in Python, machine learning algorithms, and business intelligence tools.
+**Experienced Data Scientist** with 1.5+ years in building production-ready ML systems, RAG applications, and computer vision solutions. Proven track record of delivering **90%+ accuracy models** and **automated document-processing pipelines** that solve real business problems.
 
 🔥 **Key Highlights:**
-- ✅ **20+ Complete Data Science Projects** from concept to deployment
 - ✅ **IBM Data Analyst Professional Certificate** (11 courses completed)
-- ✅ **Production-Ready Applications**: RAG systems, Computer Vision, ML models
+- ✅ **20+ End-to-End Data Science Projects** from concept to deployed and production-ready
+- ✅ **Production-Ready AI Applications**: RAG systems, Computer Vision, ML models
 - ✅ **Business Impact Projects**: Revenue prediction, sentiment analysis, recommendation systems
-- ✅ **Technical Skills**: Python, SQL, Power BI, Machine Learning, Deep Learning
+- ✅ **Technical Skills**: Python, SQL, Power BI, Machine Learning, RAG
 
 ---
 
@@ -188,9 +188,11 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)
 
-### **Databases & Development**
+### **Databases** 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### **Development**
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -212,7 +214,7 @@
 ## 🎓 **Education & Certifications**
 
 **🎓 Academic Background**
-- **B.Com Professional Accounting** - Currently 1st Year Student
+- **B.Tech Mechanical Engineering** - Kalasalingam Academy of Research and Education | 2019-2023
 
 **📜 Professional Certifications**
 - **IBM Data Analyst Professional Certificate** (June 2025) - **11 Courses Completed**
@@ -231,12 +233,18 @@
 - **Business Intelligence Analyst** | **ML Engineer (Entry-Level)** roles
 - **Data Science Intern** | **Analytics Associate** opportunities
 
-**📚 Continuous Learning:**
-- Advanced Machine Learning algorithms and techniques
-- Deep Learning and Neural Networks
-- Cloud platforms (AWS, Azure) for model deployment
-- Advanced SQL and database optimization
-- MLOps and model monitoring best practices
+  **💡 Interested in projects involving:**
+- Enterprise AI Solutions | RAG Systems | Computer Vision
+- Predictive Analytics | Recommendation Systems | NLP Applications
+
+## 🚀 **What's Next in My Journey**
+
+- 🧠 **Advanced AI Research**: Exploring Large Language Models & Generative AI
+- 🏆 **Competitive ML**: Active participation in Kaggle competitions  
+- 🔧 **MLOps Excellence**: Building end-to-end ML pipelines with monitoring
+- 🌐 **Cloud Architecture**: Scaling AI solutions on AWS/Azure platforms
+- 🤝 **Industry Collaboration**: Open for innovative AI/ML partnerships
+- 💼 **Career Growth**: Seeking **Data Scientist** & **ML Engineer** roles
 
 ---
 
@@ -246,7 +254,7 @@
 - 🧠 **Problem Solver**: Experience in diverse domains (finance, healthcare, e-commerce)
 - 📊 **Business-Focused**: Understanding of how data science drives business decisions
 - 🚀 **Quick Learner**: Self-taught modern tools and technologies
-- 💡 **Initiative Taker**: Built portfolio projects without formal work experience
+- 💡 **Initiative Taker**: Built portfolio projects with formal work experience
 - 🤝 **Team Player**: Ready to contribute to collaborative data science teams
 
 ---
@@ -258,11 +266,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankaran-s21/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sankaran.sangumuthu@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sankaran-s2001)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sankaran-s2001.github.io/portfolio/)
 
 </div>
 
 <p align="center">
-  <em>💡 "Turning data into insights, one project at a time!"</em>
+  <em>💡 "Transforming complex data into intelligent solutions that drive business success"</em>
 </p>
 
 <div align="center">
