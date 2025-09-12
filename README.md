@@ -1,140 +1,174 @@
 <h1 align="center">Hi 👋, I'm Sankaran S</h1>
-<h3 align="center">Data Scientist | ML Engineer | AI Solutions Developer</h3>
+<h3 align="center">Junior Data Scientist | Data Analyst | ML Enthusiast</h3>
 <p align="center">
-  <em>🎯 1.5+ Years Experience • 🚀 22+ ML Projects • 🏆 90%+ Model Accuracy • 🔥 Production-Ready AI Solutions</em>
+  <em>🎯 Fresh Graduate • 🚀 20+ Data Science Projects • 📊 Business Analytics • 💼 Seeking Entry-Level Opportunities</em>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sankaran-s21/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:sankaran.sangumuthu@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://sankaran-s2001.github.io/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/sankaran-s2001"><img src="https://img.shields.io/badge/-Portfolio-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=sankaran-s2001&color=blue&style=flat-square" />
 </p>
 
 ---
 
-## 🎯 **Professional Summary**
+## 🎯 **About Me**
 
-**Experienced Data Scientist** with 1.5+ years in building production-ready ML systems, RAG applications, and computer vision solutions. Proven track record of delivering **90%+ accuracy models** and **automated document-processing pipelines** that solve real business problems.
+**Recent Graduate** passionate about data science and machine learning with hands-on experience in building **end-to-end ML projects**, **data analytics dashboards**, and **AI applications**. Strong foundation in Python, machine learning algorithms, and business intelligence tools.
 
-🔥 **Key Achievements:**
-- ✅ **22+ End-to-End ML Projects** deployed and production-ready
-- ✅ **Advanced AI Systems**: RAG chatbots, Computer Vision, NLP models
-- ✅ **Business Impact**: Revenue prediction, emotion analysis, recommendation engines
-- ✅ **Technical Excellence**: MLOps, model optimization, cloud deployment
+🔥 **Key Highlights:**
+- ✅ **20+ Complete Data Science Projects** from concept to deployment
+- ✅ **IBM Data Analyst Professional Certificate** (11 courses completed)
+- ✅ **Production-Ready Applications**: RAG systems, Computer Vision, ML models
+- ✅ **Business Impact Projects**: Revenue prediction, sentiment analysis, recommendation systems
+- ✅ **Technical Skills**: Python, SQL, Power BI, Machine Learning, Deep Learning
 
 ---
 
-## 🚀 **Featured AI & ML Projects Portfolio**
+## 🚀 **Featured Projects Portfolio**
 
 ### 🏆 **FLAGSHIP PROJECTS**
 
 #### 🧠 **SmartPDF AI-RAG System** `⭐ FLAGSHIP`
 **Advanced Retrieval-Augmented Generation for Document Intelligence**
-- 🔥 **Production-grade RAG chatbot** with LangChain & HuggingFace integration
-- 🎯 **Context-aware Q&A** system with PDF processing & vector embeddings
-- 🚀 **Memory-enhanced conversations** using FAISS vector database
-- 💼 **Business Value**: Automated document analysis, customer support enhancement
+- 🔥 **AI-powered document Q&A system** with LangChain & HuggingFace integration
+- 🎯 **Context-aware responses** using PDF processing & vector embeddings
+- 🚀 **Memory-enhanced conversations** with FAISS vector database
+- 💼 **Use Cases**: Document analysis, automated Q&A, information retrieval
 - **Tech Stack**: `Python` `LangChain` `FAISS` `HuggingFace` `Streamlit` `RAG` `NLP`
-- [🔗 **Live Demo**](https://github.com/sankaran-s2001/SmartPDF-AI-RAG-Based-Document-Q-A-System) | [📊 **Technical Deep Dive**](#)
+- [🔗 **View Project**](https://github.com/sankaran-s2001/SmartPDF-AI-RAG-Based-Document-Q-A-System)
 
 #### 🎯 **Brand Logo Detection & Position Analysis** `⭐ FLAGSHIP`  
-**Computer Vision AI for Brand Recognition & Spatial Intelligence**
-- 🔥 **Custom-trained object detection model** with 90%+ accuracy
-- 🎯 **Real-time brand recognition** with precision coordinate mapping
-- 🚀 **Screen position analysis** for marketing & advertising insights
-- 💼 **Business Value**: Brand monitoring, competitive analysis, ad placement optimization
-- **Tech Stack**: `Python` `OpenCV` `YOLO` `Computer Vision` `Deep Learning` `Streamlit`
-- [🔗 **Live Demo**](https://github.com/sankaran-s2001/Brand-Logo-Detection-and-Position-Analysis-System) | [📊 **Model Performance**](#)
+**Computer Vision System for Brand Recognition**
+- 🔥 **Custom-trained detection model** for brand logo identification
+- 🎯 **Position analysis** with coordinate mapping
+- 🚀 **Real-time processing** with confidence scoring
+- 💼 **Applications**: Brand monitoring, marketing analytics, competitive analysis
+- **Tech Stack**: `Python` `OpenCV` `Computer Vision` `Deep Learning` `Streamlit`
+- [🔗 **View Project**](https://github.com/sankaran-s2001/Brand-Logo-Detection-and-Position-Analysis-System)
 
-### 🤖 **AI & DEEP LEARNING PROJECTS**
+### 🤖 **MACHINE LEARNING PROJECTS**
 
 #### 🔍 **Object Detection & Recognition System**
-**Real-time Visual Intelligence with Advanced AI Models**
-- 🎯 **Multi-object detection** with confidence scoring & bounding boxes
-- 🚀 **Real-time processing** using pre-trained deep learning models
-- 💡 **Interactive web interface** for instant image analysis
-- **Accuracy**: 85%+ object recognition rate
-- **Tech Stack**: `Python` `TensorFlow` `OpenCV` `YOLO` `Streamlit`
-- [🔗 **Try Live**](https://github.com/sankaran-s2001/Object-Detection-Recognition-System)
+**Real-time Visual Intelligence Application**
+- 🎯 **Multi-object detection** with bounding boxes and confidence scores
+- 🚀 **Interactive web interface** for image analysis
+- 💡 **Pre-trained model integration** for accurate recognition
+- **Tech Stack**: `Python` `OpenCV` `Deep Learning` `Streamlit`
+- [🔗 **View Project**](https://github.com/sankaran-s2001/Object-Detection-Recognition-System)
 
 #### 😊 **Emotion Classification System**
-**AI-Powered Sentiment & Emotion Analysis Engine**
-- 🧠 **Advanced NLP model** using TF-IDF vectorization & Random Forest
-- 🎯 **Multi-class emotion detection**: Happy, Sad, Angry, Fear, Surprise
-- 🚀 **Real-time text emotion analysis** with confidence scores
-- **Performance**: 80%+ classification accuracy on test data
+**NLP-Based Sentiment Analysis Tool**
+- 🧠 **Text emotion detection** using TF-IDF vectorization & Random Forest
+- 🎯 **Multi-class classification**: Happy, Sad, Angry, Fear, Surprise
+- 🚀 **Real-time analysis** with confidence scoring
+- **Performance**: 80%+ classification accuracy
 - **Tech Stack**: `Python` `NLP` `TF-IDF` `Machine Learning` `Scikit-Learn`
-- [🔗 **Demo**](https://github.com/sankaran-s2001/Emotion-Classification-System)
+- [🔗 **View Project**](https://github.com/sankaran-s2001/Emotion-Classification-System)
+
+#### 🏏 **IPL Score Predictor**
+**Machine Learning Cricket Analytics**
+- 🎯 **Match outcome prediction** using team statistics
+- 🚀 **Live data integration** for real-time predictions
+- 💡 **Interactive web app** with user-friendly interface
+- **Tech Stack**: `Python` `Machine Learning` `Cricket Analytics` `Streamlit`
+- [🔗 **View Project**](https://github.com/sankaran-s2001/IPL-Score-Predictor)
 
 ### 🎬 **RECOMMENDATION SYSTEMS**
 
 #### 🎭 **Movie Recommendation Engine**
-**Content-Based Filtering with Real-time API Integration**
-- 🔥 **Intelligent recommendation algorithm** using cosine similarity
-- 🎯 **Real-time movie data** via OMDB API integration
+**Content-Based Filtering with API Integration**
+- 🔥 **Intelligent recommendations** using cosine similarity
+- 🎯 **Real-time movie data** via OMDB API
 - 🚀 **Personalized suggestions** based on user preferences
-- 💼 **Business Application**: Content platforms, streaming services
 - **Tech Stack**: `Python` `NLP` `TF-IDF` `API Integration` `Streamlit`
-- [🔗 **Live System**](https://github.com/sankaran-s2001/Movie-Recommendation-System)
+- [🔗 **View Project**](https://github.com/sankaran-s2001/Movie-Recommendation-System)
 
 #### 📚 **Book Recommendation System**
-**Collaborative Filtering for Personalized Content Discovery**
-- 🧠 **Advanced collaborative filtering** with user-item matrices
-- 🎯 **Popularity-based recommendations** for cold start problems
-- 🚀 **Similarity-based matching** using cosine similarity algorithms
-- **Tech Stack**: `Python` `Machine Learning` `Collaborative Filtering` `Pandas`
-- [🔗 **Explore**](https://github.com/sankaran-s2001/Book-Recommendation-System)
+**Collaborative Filtering for Personalized Suggestions**
+- 🧠 **Advanced filtering algorithms** with user-item matrices
+- 🎯 **Popularity-based recommendations** for new users
+- 🚀 **Similarity-based matching** using cosine similarity
+- **Tech Stack**: `Python` `Machine Learning` `Collaborative Filtering` `Streamlit`
+- [🔗 **View Project**](https://github.com/sankaran-s2001/Book-Recommendation-System)
 
-### 📊 **BUSINESS ANALYTICS & FORECASTING**
+### 📊 **BUSINESS ANALYTICS PROJECTS**
 
 #### ☕ **Coffee Shop Revenue Predictor**
-**ML-Powered Business Forecasting System**
+**ML-Powered Business Forecasting**
 - 🎯 **Daily revenue prediction** using regression algorithms
-- 🚀 **Seasonal pattern analysis** with day-of-week effects
-- 💼 **Business Intelligence**: Inventory optimization, staff planning
-- **Accuracy**: 85%+ prediction accuracy on historical data
+- 🚀 **Seasonal analysis** with day-of-week patterns
+- 💼 **Business Intelligence**: Operations optimization, planning support
 - **Tech Stack**: `Python` `Machine Learning` `Regression` `Streamlit`
-- [🔗 **Business Tool**](https://github.com/sankaran-s2001/Coffee-Shop-Revenue-Predictor)
+- [🔗 **View Project**](https://github.com/sankaran-s2001/Coffee-Shop-Revenue-Predictor)
 
-### 📈 **DATA ANALYTICS & VISUALIZATION SUITE**
+#### 🏥 **Diabetes Risk Predictor**
+**Healthcare Analytics Application**
+- 🧠 **Risk assessment model** for early detection
+- 🎯 **Patient data analysis** with ML algorithms
+- 🚀 **Interactive health tool** for awareness and prevention
+- **Tech Stack**: `Python` `Machine Learning` `Healthcare Analytics` `Streamlit`
+- [🔗 **View Project**](https://github.com/sankaran-s2001/Diabetes-Risk-Predictor)
+
+### 💰 **FINANCIAL & MARKET ANALYSIS**
+
+#### 💎 **Gold Price Predictor**
+**Financial Market Analysis Tool**
+- 📈 **Price prediction model** using historical data
+- 🎯 **Market trend analysis** with machine learning
+- 🚀 **Interactive interface** with Gradio framework
+- **Tech Stack**: `Python` `Machine Learning` `Financial Analysis` `Gradio`
+- [🔗 **View Project**](https://github.com/sankaran-s2001/Gold-Price-Predictor)
+
+### 📈 **DATA ANALYTICS & VISUALIZATION**
 
 #### 🏢 **Advanced Power BI Dashboard Collection**
-**Enterprise-Grade Business Intelligence Solutions**
+**Business Intelligence Solutions**
 - 📊 **Data Professional Survey Dashboard**: 500+ professionals career insights
-- 🛒 **E-commerce Sales Analytics**: Geographic performance & revenue trends  
-- 🏥 **Healthcare Analytics Dashboard**: Patient demographics & medical specialties
-- 🛍️ **Blinkit Grocery Intelligence**: India's delivery app performance metrics
-- 👥 **Employee Attrition Analysis**: HR analytics with predictive insights
-- **Tech Stack**: `Power BI` `DAX` `Excel` `Data Modeling` `Business Intelligence`
+- 🛒 **E-commerce Sales Analytics**: Performance metrics & trends  
+- 🏥 **Healthcare Analytics Dashboard**: Patient demographics analysis
+- 🛍️ **Blinkit Grocery Analytics**: Delivery app performance dashboard
+- 👥 **Employee Attrition Analysis**: HR analytics with retention insights
+- **Tech Stack**: `Power BI` `DAX` `Excel` `Data Modeling`
 
 #### 📊 **Large-Scale Data Analysis Projects**
-**Python-Powered Data Science & EDA Portfolio**
-- 🚗 **US Traffic Accidents Analysis (2016-2023)**: 3M+ records, weather correlation
-- 🏠 **NYC Airbnb Market Analysis**: Pricing strategies & geographic insights
-- 📉 **Global Layoffs SQL Analysis (2020-2023)**: Company trends & impact assessment
-- 📺 **YouTube Analytics Dashboard**: Data science educators performance metrics
-- **Tech Stack**: `Python` `Pandas` `NumPy` `SQL` `Data Visualization` `EDA`
+**Python-Powered EDA & Insights**
+- 🚗 **US Traffic Accidents Analysis (2016-2023)**: Pattern analysis & visualization
+- 🏠 **NYC Airbnb Market Analysis**: Pricing insights & geographic distribution
+- 📉 **Global Layoffs SQL Analysis (2020-2023)**: Company trends & impact
+- 📺 **YouTube Analytics Dashboard**: Channel performance metrics
+- **Tech Stack**: `Python` `Pandas` `SQL` `Data Visualization` `EDA`
 
-### 🔄 **ADDITIONAL ML PROJECTS**
+### 🔧 **UTILITY & ANALYSIS TOOLS**
 
-#### 🎮 **Sports Analytics Systems**
-- **IPL Match Predictor**: Cricket outcome prediction using team stats
-- **Player Performance Analytics**: Individual player scoring & analysis
+#### 🔍 **PAN Number Validation & Analysis**
+**Data Validation & Processing System**
+- 🎯 **Comprehensive validation** using SQL and Python
+- 🚀 **Data cleaning pipeline** for identity verification
+- 💡 **Database integration** for large-scale processing
+- **Tech Stack**: `Python` `SQL` `Data Validation` `Database Management`
+- [🔗 **View Project**](https://github.com/sankaran-s2001/PAN-Validation-System)
 
-#### 🏢 **Business Intelligence Tools**  
-- **Sales Forecasting Model**: Time series analysis for retail
-- **Customer Segmentation**: K-means clustering for marketing
-- **Inventory Optimization**: Supply chain ML model
+#### 📊 **Data Visualizer Web App**
+**Interactive Data Exploration Tool**
+- 🎯 **CSV data visualization** with beautiful charts
+- 🚀 **Interactive web interface** for data exploration
+- 💡 **Multiple chart types** for comprehensive analysis
+- **Tech Stack**: `Python` `Data Visualization` `Streamlit` `Plotly`
+- [🔗 **View Project**](https://github.com/sankaran-s2001/Data-Visualizer-App)
 
-#### 🌐 **Web Applications & APIs**
-- **Stock Price Predictor**: LSTM model with real-time data
-- **News Sentiment Analyzer**: Financial news impact assessment
-- **Weather Prediction System**: Time series forecasting model
+#### 😊 **Smile Detection App**
+**Computer Vision Application**
+- 🎯 **Facial expression recognition** using logistic regression
+- 🚀 **Real-time image processing** with OpenCV
+- 💡 **Interactive web application** for emotion detection
+- **Tech Stack**: `Python` `Computer Vision` `Machine Learning` `Streamlit`
+- [🔗 **View Project**](https://github.com/sankaran-s2001/Smile-Detection-App)
 
 ---
 
-## 🛠️ **Technical Expertise**
+## 🛠️ **Technical Skills**
 
 ### **Programming & Core Libraries**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -142,7 +176,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### **AI & Machine Learning**
+### **Machine Learning & AI**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -152,22 +186,17 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)
 
-### **Databases & Cloud**
+### **Databases & Development**
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### **Development & Deployment**
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 
 ---
 
-## 📊 **GitHub Analytics**
+## 📊 **GitHub Statistics**
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sankaran-s2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -180,56 +209,60 @@
 
 ---
 
-## 🎓 **Certifications & Education**
+## 🎓 **Education & Certifications**
 
 **🎓 Academic Background**
-- **B.Tech Mechanical Engineering** - Kalasalingam Academy of Research and Education
+- **B.Com Professional Accounting** - Currently 1st Year Student
 
 **📜 Professional Certifications**
+- **IBM Data Analyst Professional Certificate** (June 2025) - **11 Courses Completed**
+  - Introduction to Data Analytics, Excel Basics, Python for Data Science
+  - Data Visualization, SQL for Data Science, Data Analysis with Python
+  - IBM Data Analyst Capstone Project, Career Guide & Interview Preparation
 - **Python for Beginners & Non-Programmers** - Advanced Programming Skills
-- **SQL Basic & Intermediate** - Database Management & Query Optimization  
-- **SAP Certified Application Associate** - Procurement with SAP ERP 6.0 EhP7
+- **SQL Basic & Intermediate** - Database Management & Query Optimization
 
 ---
 
-## 🚀 **What's Next in My Journey**
+## 🚀 **Career Goals**
 
-- 🧠 **Advanced AI Research**: Exploring Large Language Models & Generative AI
-- 🏆 **Competitive ML**: Active participation in Kaggle competitions  
-- 🔧 **MLOps Excellence**: Building end-to-end ML pipelines with monitoring
-- 🌐 **Cloud Architecture**: Scaling AI solutions on AWS/Azure platforms
-- 🤝 **Industry Collaboration**: Open for innovative AI/ML partnerships
-- 💼 **Career Growth**: Seeking **Senior Data Scientist** & **ML Engineer** roles
+**🎯 Currently Seeking:**
+- **Junior Data Scientist** | **Data Analyst** positions
+- **Business Intelligence Analyst** | **ML Engineer (Entry-Level)** roles
+- **Data Science Intern** | **Analytics Associate** opportunities
 
----
-
-## 💼 **Professional Opportunities**
-
-**🎯 Open for positions in:**
-- **Data Scientist** | **Senior Data Scientist**
-- **Machine Learning Engineer** | **AI Engineer**  
-- **Data Analyst** | **Business Intelligence Developer**
-- **MLOps Engineer** | **Applied AI Specialist**
-
-**💡 Interested in projects involving:**
-- Enterprise AI Solutions | RAG Systems | Computer Vision
-- Predictive Analytics | Recommendation Systems | NLP Applications
+**📚 Continuous Learning:**
+- Advanced Machine Learning algorithms and techniques
+- Deep Learning and Neural Networks
+- Cloud platforms (AWS, Azure) for model deployment
+- Advanced SQL and database optimization
+- MLOps and model monitoring best practices
 
 ---
 
-## 📞 **Let's Connect & Collaborate**
+## 💼 **Why Hire Me?**
+
+- 🔥 **Project-Ready**: 20+ complete projects from data collection to deployment
+- 🧠 **Problem Solver**: Experience in diverse domains (finance, healthcare, e-commerce)
+- 📊 **Business-Focused**: Understanding of how data science drives business decisions
+- 🚀 **Quick Learner**: Self-taught modern tools and technologies
+- 💡 **Initiative Taker**: Built portfolio projects without formal work experience
+- 🤝 **Team Player**: Ready to contribute to collaborative data science teams
+
+---
+
+## 📞 **Let's Connect**
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankaran-s21/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sankaran.sangumuthu@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sankaran-s2001)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/sankaran-s2001)
 
 </div>
 
 <p align="center">
-  <em>💡 "Transforming complex data into intelligent solutions that drive business success"</em>
+  <em>💡 "Turning data into insights, one project at a time!"</em>
 </p>
 
 <div align="center">
