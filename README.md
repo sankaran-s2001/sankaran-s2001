@@ -173,11 +173,9 @@
 ### **Programming & Core Libraries**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-
----
 
 ### **Data Science & ML**  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -187,15 +185,11 @@
 ![EDA](https://img.shields.io/badge/EDA-00A86B?style=for-the-badge&logo=pinboard&logoColor=white)
 ![ML Algorithms](https://img.shields.io/badge/ML%20Algorithms-FF6F00?style=for-the-badge&logo=opsgenie&logoColor=white)  
 
----
-
 ### **AI & Deep Learning**  
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-1E90FF?style=for-the-badge&logo=openai&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge&logo=databricks&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-
----
 
 ### **Advanced AI**  
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
@@ -204,15 +198,11 @@
 ![Vector Databases](https://img.shields.io/badge/Vector%20Databases-4682B4?style=for-the-badge&logo=milvus&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)  
 
----
-
 ### **Data Visualization**  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4E9BCD?style=for-the-badge&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)  
-
----
 
 ### **Database & Analytics**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -221,8 +211,6 @@
 ![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-800080?style=for-the-badge&logo=airflow&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  
 
----
-
 ### **Web Development**  
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FFB347?style=for-the-badge&logo=gradio&logoColor=black)
@@ -230,8 +218,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-FF7F50?style=for-the-badge&logo=pythonanywhere&logoColor=white)
 ![APIs](https://img.shields.io/badge/APIs-4169E1?style=for-the-badge&logo=api&logoColor=white)  
-
----
 
 ### **Tools & Deployment**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
