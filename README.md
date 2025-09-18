@@ -39,14 +39,6 @@
 - **Tech Stack**: `Python` `LangChain` `FAISS` `HuggingFace` `Streamlit` `RAG` `NLP`
 - [🔗 **View Project**](https://github.com/sankaran-s2001/SmartPDF-AI-RAG-Based-Document-Q-A-System)
 
-#### 🎯 **Brand Logo Detection & Position Analysis** `⭐ FLAGSHIP`  
-**Computer Vision System for Brand Recognition**
-- 🔥 **Custom-trained detection model** for brand logo identification
-- 🎯 **Position analysis** with coordinate mapping
-- 🚀 **Real-time processing** with confidence scoring
-- 💼 **Applications**: Brand monitoring, marketing analytics, competitive analysis
-- **Tech Stack**: `Python` `OpenCV` `Computer Vision` `Deep Learning` `Streamlit`
-- [🔗 **View Project**](https://github.com/sankaran-s2001/Brand-Logo-Detection-and-Position-Analysis-System)
 
 ### 🤖 **MACHINE LEARNING PROJECTS**
 
@@ -55,7 +47,7 @@
 - 🎯 **Multi-object detection** with bounding boxes and confidence scores
 - 🚀 **Interactive web interface** for image analysis
 - 💡 **Pre-trained model integration** for accurate recognition
-- **Tech Stack**: `Python` `OpenCV` `Deep Learning` `Streamlit`
+- **Tech Stack**: `Python` `OpenCV` `Computer Vision` `Deep Learning` `Streamlit`
 - [🔗 **View Project**](https://github.com/sankaran-s2001/Object-Detection-Recognition-System)
 
 #### 😊 **Emotion Classification System**
